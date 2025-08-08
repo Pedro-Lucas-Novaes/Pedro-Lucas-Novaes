@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/041/470/120/large/miguel-santos-druid.jpg?1631891682" width="600" alt="Elder Druid Backend" />
+  <img src="https://i.pinimg.com/474x/b5/44/1b/b5441b341974855b1f357d05c6e9f333.jpg" width="600" alt="Elder Druid Backend" />
 </p>
 
 ## 🌿 Saudações, Guardião das Linhas Ocultas! 🐾🖥️
@@ -34,13 +34,11 @@
 
 ### ✨ Feitiços do Elder Druid Backend
 
-- 🌿 `InvokeBackendRealm()` — Invocações seguras e performáticas de APIs com Express.
-- 🌳 `DeployAncientForest()` — Deploys com Docker, AWS e infra sustentável.
 - 🍄 `CleanSpellAura()` — Código limpo, modular e de fácil manutenção.
 
 ---
 
-> *“A sabedoria do backend pulsa como seiva nas raízes do código; cada API é uma vida canalizada com propósito.”*  
-> — Pedro Lucas, Elder Druid Backend 🌳🗝️
+> *“A sabedoria pulsa como seiva nas raízes do código; cada API é uma vida canalizada com propósito.”*  
+> — Pedro Lucas, Elder Druid 🌳🗝️
 
 ---
