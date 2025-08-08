@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/474x/b5/44/1b/b5441b341974855b1f357d05c6e9f333.jpg" width="600" alt="Elder Druid Backend" />
-</p>
-
 ## 🌿 Saudações, Guardião das Linhas Ocultas! 🐾🖥️
 
 #### **Eu sou Pedro Lucas, o Elder Druid dos Códigos Ancestrais...** ✨
