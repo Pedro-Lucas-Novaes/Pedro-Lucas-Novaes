@@ -14,7 +14,8 @@
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedroluccs&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedroluccs&show_icons=true&theme=green" alt="GitHub stats" />
+
   &nbsp;&nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluccs&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
 </p>
