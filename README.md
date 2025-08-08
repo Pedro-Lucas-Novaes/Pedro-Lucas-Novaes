@@ -28,9 +28,8 @@
 ### 🔮 Runas e Ferramentas Arcanas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,python,c" />
 </p>
-
 ---
 
 ### ✨ Feitiços do Elder Druid Backend
