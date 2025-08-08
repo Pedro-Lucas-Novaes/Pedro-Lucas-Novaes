@@ -21,20 +21,20 @@
 
 ---
 
-### 🔮 Runas e Ferramentas Arcanas
+### 🔮 Runas do Guardião do Código
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,python,c" />
 </p>
 ---
 
-### ✨ Feitiços do Elder Druid Backend
+### ✨ Magias do Protetor dos Servidores
 
 - 🍄 `CleanSpellAura()` — Código limpo, modular e de fácil manutenção.
 
 ---
 
 > *“A sabedoria pulsa como seiva nas raízes do código; cada API é uma vida canalizada com propósito.”*  
-> — Pedro Lucas, Elder Druid 🌳🗝️
+> — Pedro Lucas, Protetor dos Fluxos de Dados 🌳🧙‍♂️
 
 ---
