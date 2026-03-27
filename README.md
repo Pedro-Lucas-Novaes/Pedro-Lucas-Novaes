@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=25&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+em+formação;Focado+em+Node.js+e+APIs+REST;Apaixonado+por+tecnologia+e+boas+práticas;Sempre+evoluindo+no+mundo+do+código" />
 </p>Pedro Lucas, o Sábio Druid dos Caminhos do Código... 🍃🔮
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedro-Lucas-Novaes&color=green" />
-  <img src="https://img.shields.io/github/followers/Pedro-Lucas-Novaes?label=Seguidores&style=social" />
-</p>---
 
 🧙‍♂️ Sobre o Guardião
 
