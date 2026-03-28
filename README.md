@@ -40,15 +40,19 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 
 <p align="center">
   <a href="https://www.credly.com/badges/ce679d5e-1e9e-400f-9648-425b42eea6d8/public_url">
-    <img src="https://images.credly.com/size/340x340/images/727c2754-d727-4e27-a1aa-3de2425ce239.png" height="110"/>
+    <img src="./assets/aws-developing.png" height="110"/>
   </a>
 
   <a href="https://www.credly.com/badges/ea1256ee-589e-4130-9c61-decf66fb664c/public_url">
-    <img src="https://images.credly.com/size/340x340/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671.png" height="110"/>
+    <img src="./assets/aws-foundations.png" height="110"/>
   </a>
 
   <a href="https://www.credly.com/badges/6f0f2b44-7303-4493-af34-7123b91a7c83/public_url">
-    <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85.png" height="110"/>
+    <img src="./assets/aws-security.png" height="110"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/5d755bd6-2c42-40c9-a0ff-c26418158012/public_url">
+    <img src="./assets/aws-ml.png" height="110"/>
   </a>
 
   <a href="https://badge.cps.sp.gov.br//view.aspx?f8db55d6-9b35-426f-a996-a5c1b606b5c6">
