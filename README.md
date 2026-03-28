@@ -86,7 +86,7 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 ### 🛠️ Ferramentas do Guardião
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48"/>
 </p>
 
