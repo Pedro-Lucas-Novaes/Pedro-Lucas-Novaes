@@ -87,7 +87,7 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48"/>
 </p>
 
 ---
