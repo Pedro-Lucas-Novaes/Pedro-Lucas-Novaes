@@ -62,13 +62,27 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 
 ### 🚀 Projetos do Guardião
 
-🍽️ **Nhambu API**  
-API REST para gerenciamento de pratos de um restaurante paraense.
+🍽️ **Nhambu API**
+*API REST para gerenciamento de pratos de um restaurante paraense.*
 
-- ✔ CRUD completo  
-- ✔ MongoDB Atlas  
-- ✔ Testes com Insomnia  
-- ✔ Estrutura de rotas organizada  
+* ✔ Cadastro de pratos
+* ✔ Listagem de pratos
+* ✔ Atualização de registros
+* ✔ Remoção de dados
+* ✔ MongoDB Atlas
+* ✔ Testes com Insomnia
+* ✔ Documentação da API
+
+---
+
+### 🛡️ Habilidades do Guardião
+
+* Desenvolvimento de APIs REST
+* Operações CRUD
+* Modelagem de dados
+* Integração com banco de dados
+* Testes de endpoints com Insomnia
+* Estruturação de backend
 
 ---
 
@@ -78,15 +92,6 @@ Atualmente estou forjando uma **API REST com MongoDB** para o restaurante paraen
 Nessa jornada, aplico operações de **CRUD** para cadastrar, listar, atualizar e remover informações, fortalecendo meus conhecimentos em backend, modelagem de dados e estruturação de rotas.
 
 O projeto também envolve **documentação da API**, testes com **Insomnia**, banco em nuvem com **MongoDB Atlas** e a criação de um **protótipo frontend no Figma** para representar a experiência de uso do sistema.
-
----
-
-### ⚡ Especialidade
-
-* Desenvolvimento de APIs REST
-* Modelagem de dados
-* Integração com banco de dados
-* Estruturação de backend
 
 ---
 
@@ -100,8 +105,14 @@ O projeto também envolve **documentação da API**, testes com **Insomnia**, ba
 
 ### 🌐 Contato
 
-📧 [pedrolucas.novaes.dutra@gmail.com](mailto:pedrolucas.novaes.dutra@gmail.com)
-🔗 https://www.linkedin.com/in/pedro-lucas-novaes
+<p align="left">
+  <a href="mailto:pedrolucas.novaes.dutra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-lucas-novaes">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lucas%20Novaes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
