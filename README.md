@@ -10,18 +10,18 @@
 
 ### 🧠 Sobre mim
 
-Sou um desenvolvedor backend em formação, com foco na criação de APIs, manipulação de dados e boas práticas de desenvolvimento.
-Tenho interesse em aprender novas tecnologias e construir soluções eficientes e bem estruturadas.
+Sou um desenvolvedor backend em formação, focado na criação de APIs, manipulação de dados e boas práticas de desenvolvimento.
+Busco constantemente aprender novas tecnologias e construir soluções eficientes, escaláveis e bem estruturadas.
 
 ---
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">  
-  <li>🌲 Mestre dos Segredos do Backend — onde dados brotam como raízes profundas</li>  
-  <li>🍃 Portador dos Tomos Sagrados de JavaScript, Python, C e Java</li>  
-  <li>🦉 Guardião dos fluxos de dados e mestre na arte da lógica computacional</li>  
-  <li>📚 Explorador incansável de boas práticas, clean code e arquitetura de software</li>  
-  <li>⚙️ Forjado nas florestas de microserviços e bancos de dados como MySQL e MongoDB</li>  
-  <li>🔮 Invocador de APIs robustas, eficientes e bem estruturadas</li>  
+  <li>🌲 Especialista em backend — onde dados se tornam soluções</li>  
+  <li>🍃 Experiência com JavaScript, Python, C e Java</li>  
+  <li>🦉 Forte base em lógica de programação e resolução de problemas</li>  
+  <li>📚 Aplicação de boas práticas como Clean Code e organização de projetos</li>  
+  <li>⚙️ Desenvolvimento com bancos de dados como MySQL e MongoDB</li>  
+  <li>🔮 Criação de APIs REST eficientes e bem estruturadas</li>  
 </ul>  
 
 ---
@@ -40,21 +40,17 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 
 <p align="center">
   <a href="https://www.credly.com/badges/ce679d5e-1e9e-400f-9648-425b42eea6d8/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-security-foundations-tra.png" height="110"/>
+    <img src="./assets/aws-developing.png" height="110"/>
   </a>
-
   <a href="https://www.credly.com/badges/ea1256ee-589e-4130-9c61-decf66fb664c/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-foundations-training-bad.png" height="110"/>
+    <img src="./assets/aws-foundations.png" height="110"/>
   </a>
-
   <a href="https://www.credly.com/badges/6f0f2b44-7303-4493-af34-7123b91a7c83/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-developing-training-badg.png" height="110"/>
+    <img src="./assets/aws-security.png" height="110"/>
   </a>
-
   <a href="https://www.credly.com/badges/5d755bd6-2c42-40c9-a0ff-c26418158012/public_url">
-    <img src="./assets/aws-academy-graduate-machine-learning-foundations-t.png" height="110"/>
+    <img src="./assets/aws-ml.png" height="110"/>
   </a>
-
   <a href="https://badge.cps.sp.gov.br//view.aspx?f8db55d6-9b35-426f-a996-a5c1b606b5c6">
     <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="110"/>
   </a>
@@ -93,41 +89,41 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 🍽️ **Nhambu API**
 *API REST para gerenciamento de pratos de um restaurante paraense.*
 
-* ✔ Cadastro de pratos
-* ✔ Listagem de pratos
-* ✔ Atualização de registros
-* ✔ Remoção de dados
-* ✔ MongoDB Atlas
-* ✔ Testes com Insomnia
-* ✔ Documentação da API
+* ✔ Implementação completa de CRUD
+* ✔ Estruturação de rotas e organização de backend
+* ✔ Integração com MongoDB Atlas
+* ✔ Testes de endpoints utilizando Insomnia
+* ✔ Documentação da API em Markdown
+* ✔ Modelagem de dados orientada a aplicação
 
 ---
 
 ### 🛡️ Habilidades do Guardião
 
 * Desenvolvimento de APIs REST
-* Operações CRUD
+* Estruturação e organização de backend
 * Modelagem de dados
 * Integração com banco de dados
-* Testes de endpoints com Insomnia
-* Estruturação de backend
+* Testes e validação de endpoints
+* Aplicação de boas práticas de código
 
 ---
 
 ### 🍽️ Criação em Andamento — O Reino de Nhambu
 
-Atualmente estou forjando uma **API REST com MongoDB** para o restaurante paraense **Nhambu**, um sistema voltado ao gerenciamento de pratos e registros do cardápio.
-Nessa jornada, aplico operações de **CRUD** para cadastrar, listar, atualizar e remover informações, fortalecendo meus conhecimentos em backend, modelagem de dados e estruturação de rotas.
+Atualmente estou desenvolvendo uma **API REST com MongoDB** para o restaurante paraense **Nhambu**, um sistema voltado ao gerenciamento de pratos e registros do cardápio.
 
-O projeto também envolve **documentação da API**, testes com **Insomnia**, banco em nuvem com **MongoDB Atlas** e a criação de um **protótipo frontend no Figma** para representar a experiência de uso do sistema.
+Neste projeto, aplico conceitos fundamentais de backend como **CRUD, organização de rotas, integração com banco de dados e testes de endpoints**, além de trabalhar com **documentação e estruturação de APIs reais**.
 
 ---
 
 ### ✨ Magias do Protetor dos Servidores
 
-* 🍄 `CleanSpellAura()` → Código limpo, modular e de fácil manutenção
-* 🌌 `SummonDatabaseEntity()` → Modelagem e persistência de dados
-* 🔥 `ForgeMicroservice()` → Criação de APIs e serviços escaláveis
+* 🍄 `CleanSpellAura()` → Aplicação de boas práticas, organização de código e padronização de projetos
+* 🌌 `SummonDatabaseEntity()` → Modelagem de dados com MongoDB e MySQL
+* 🔥 `ForgeMicroservice()` → Desenvolvimento de APIs REST com Node.js
+* ⚡ `InvokeEndpoint()` → Testes e validação de endpoints com Insomnia
+* 🧠 `ThinkLikeDev()` → Resolução de problemas e aprendizado contínuo
 
 ---
 
