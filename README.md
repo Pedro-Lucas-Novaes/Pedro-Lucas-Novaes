@@ -1,7 +1,7 @@
 ## 🌿 Saudações, Guardião das Linhas Ocultas! 🐾🖥️
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=25&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+formação;Focado+em+Node.js+e+APIs+REST;Apaixonado+por+tecnologia+e+boas+práticas;Sempre+evoluindo+no+mundo+do+código" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=25&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+formação;Guardião+das+APIs+e+dos+dados;Explorador+de+novas+tecnologias;Sempre+evoluindo+no+mundo+do+código" />
 </p>
 
 ### **Pedro Lucas, o Sábio Druid dos Caminhos do Código...** 🍃🔮
