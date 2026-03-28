@@ -40,7 +40,7 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 
 <p align="center">
   <a href="https://www.credly.com/badges/ce679d5e-1e9e-400f-9648-425b42eea6d8/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-developing-training-badg.png" height="110"/>
+    <img src="./assets/aws-academy-graduate-cloud-security-foundations-tra.png" height="110"/>
   </a>
 
   <a href="https://www.credly.com/badges/ea1256ee-589e-4130-9c61-decf66fb664c/public_url">
