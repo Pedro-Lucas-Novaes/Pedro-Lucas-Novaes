@@ -27,12 +27,11 @@
 
 ### ⚡ Skills em Destaque
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=nodejs" />  
+  <img src="https://skillicons.dev/icons?i=mysql" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" />  
+</p>  
 
 ---
 
@@ -47,9 +46,7 @@
 ### 🛠️ Ferramentas do Guardião
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />  
-  <br><br>
-  <img src="https://img.shields.io/badge/API%20Testing-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,insomnia" />  
 </p>  
 
 ---
