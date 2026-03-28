@@ -74,7 +74,7 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 ### 🔮 Linguagens e Tecnologias
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb,express" />  
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb,express,docker" />  
 </p>  
 
 ---
