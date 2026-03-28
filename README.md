@@ -141,6 +141,7 @@ Neste projeto, aplico conceitos fundamentais de backend como **CRUD, organizaç�
 🇧🇷 Português — Nativo (Domínio total do reino)<br>
 🇺🇸 Inglês — Intermediário (Capaz de compreender e conjurar documentação técnica)<br>
 🇪🇸 Espanhol — Avançado (Comunicação avançada entre reinos vizinhos)<br>
+  
 ---
 
 ### 🌐 Contato
