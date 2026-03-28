@@ -6,6 +6,15 @@
 
 ### **Pedro Lucas, o Sábio Druid dos Caminhos do Código...** 🍃🔮
 
+---
+
+### 🧠 Sobre mim
+
+Sou um desenvolvedor backend em formação, com foco na criação de APIs, manipulação de dados e boas práticas de desenvolvimento.
+Tenho interesse em aprender novas tecnologias e construir soluções eficientes e bem estruturadas.
+
+---
+
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">  
   <li>🌲 Mestre dos Segredos do Backend — onde dados brotam como raízes profundas</li>  
   <li>🍃 Portador dos Tomos Sagrados de JavaScript, Python, C e Java</li>  
@@ -51,12 +60,32 @@
 
 ---
 
+### 🚀 Projetos do Guardião
+
+🍽️ **Nhambu API**
+API REST para gerenciamento de pratos de um restaurante paraense.
+✔ CRUD completo
+✔ MongoDB Atlas
+✔ Testes com Insomnia
+✔ Estrutura de rotas organizada
+
+---
+
 ### 🍽️ Criação em Andamento — O Reino de Nhambu
 
-Atualmente estou forjando uma **API REST com MongoDB** para o restaurante paraense **Nhambu**, um sistema voltado ao gerenciamento de pratos e registros do cardápio.  
+Atualmente estou forjando uma **API REST com MongoDB** para o restaurante paraense **Nhambu**, um sistema voltado ao gerenciamento de pratos e registros do cardápio.
 Nessa jornada, aplico operações de **CRUD** para cadastrar, listar, atualizar e remover informações, fortalecendo meus conhecimentos em backend, modelagem de dados e estruturação de rotas.
 
 O projeto também envolve **documentação da API**, testes com **Insomnia**, banco em nuvem com **MongoDB Atlas** e a criação de um **protótipo frontend no Figma** para representar a experiência de uso do sistema.
+
+---
+
+### ⚡ Especialidade
+
+* Desenvolvimento de APIs REST
+* Modelagem de dados
+* Integração com banco de dados
+* Estruturação de backend
 
 ---
 
@@ -65,6 +94,13 @@ O projeto também envolve **documentação da API**, testes com **Insomnia**, ba
 * 🍄 `CleanSpellAura()` → Código limpo, modular e de fácil manutenção
 * 🌌 `SummonDatabaseEntity()` → Modelagem e persistência de dados
 * 🔥 `ForgeMicroservice()` → Criação de APIs e serviços escaláveis
+
+---
+
+### 🌐 Contato
+
+📧 [pedrolucas.novaes.dutra@gmail.com](mailto:pedrolucas.novaes.dutra@gmail.com)
+🔗 https://www.linkedin.com/in/pedro-lucas-novaes
 
 ---
 
