@@ -62,13 +62,13 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 
 ### 🚀 Projetos do Guardião
 
-🍽️ **Nhambu API**
+🍽️ **Nhambu API**  
 API REST para gerenciamento de pratos de um restaurante paraense.
 
-✔ CRUD completo
-✔ MongoDB Atlas
-✔ Testes com Insomnia
-✔ Estrutura de rotas organizada
+- ✔ CRUD completo  
+- ✔ MongoDB Atlas  
+- ✔ Testes com Insomnia  
+- ✔ Estrutura de rotas organizada  
 
 ---
 
