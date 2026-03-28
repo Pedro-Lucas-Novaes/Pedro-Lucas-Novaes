@@ -67,8 +67,10 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=nodejs" />  
-  <img src="https://skillicons.dev/icons?i=mysql" />  
-  <img src="https://skillicons.dev/icons?i=mongodb" />  
+  <img src="https://skillicons.dev/icons?i=python" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </p>  
 
 ---
@@ -76,7 +78,7 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 ### 🔮 Linguagens e Tecnologias
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb" />  
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb,express" />  
 </p>  
 
 ---
