@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor backend em formação, focado na criação de APIs, manipulação de dados e boas práticas de desenvolvimento.
 Busco constantemente aprender novas tecnologias e construir soluções eficientes, escaláveis e bem estruturadas.
-Tenho interesse em atuar com desenvolvimento backend, contribuindo na construção de sistemas eficientes e escaláveis.
+Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em desenvolvimento backend.
 
 ---
 
@@ -41,23 +41,23 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 
 <p align="center">
   <a href="https://www.credly.com/badges/ce679d5e-1e9e-400f-9648-425b42eea6d8/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-security-foundations-tra.png" height="110"/>
+    <img src="./assets/aws-academy-graduate-cloud-security-foundations-tra.png" height="120"/>
   </a>
 
   <a href="https://www.credly.com/badges/ea1256ee-589e-4130-9c61-decf66fb664c/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-foundations-training-bad.png" height="110"/>
+    <img src="./assets/aws-academy-graduate-cloud-foundations-training-bad.png" height="120"/>
   </a>
 
   <a href="https://www.credly.com/badges/6f0f2b44-7303-4493-af34-7123b91a7c83/public_url">
-    <img src="./assets/aws-academy-graduate-cloud-developing-training-badg.png" height="110"/>
+    <img src="./assets/aws-academy-graduate-cloud-developing-training-badg.png" height="120"/>
   </a>
 
   <a href="https://www.credly.com/badges/5d755bd6-2c42-40c9-a0ff-c26418158012/public_url">
-    <img src="./assets/aws-academy-graduate-machine-learning-foundations-t.png" height="110"/>
+    <img src="./assets/aws-academy-graduate-machine-learning-foundations-t.png" height="120"/>
   </a>
 
   <a href="https://badge.cps.sp.gov.br//view.aspx?f8db55d6-9b35-426f-a996-a5c1b606b5c6">
-    <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="110"/>
+    <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="120"/>
   </a>
 </p>
 
@@ -85,7 +85,7 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 🍽️ **Nhambu API**
 *API REST para gerenciamento de pratos de um restaurante paraense.*
 
-🔗 https://github.com/Pedro-Lucas-Novaes/NHAMBU
+🔗 [Acessar repositório](https://github.com/Pedro-Lucas-Novaes/NHAMBU)
 
 * ✔ Implementação completa de CRUD
 * ✔ Estruturação de rotas e organização de backend
@@ -141,6 +141,7 @@ Neste projeto, aplico conceitos fundamentais de backend como **CRUD, organizaç�
 🇧🇷 Português — Nativo (Domínio total do reino)<br>
 🇺🇸 Inglês — Intermediário (Capaz de compreender e conjurar documentação técnica)<br>
 🇪🇸 Espanhol — Avançado (Comunicação avançada entre reinos vizinhos)<br>
+</p>
   
 ---
 
