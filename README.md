@@ -107,10 +107,10 @@ O projeto também envolve **documentação da API**, testes com **Insomnia**, ba
 
 <p align="left">
   <a href="mailto:pedrolucas.novaes.dutra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/pedro-lucas-novaes">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lucas%20Novaes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
