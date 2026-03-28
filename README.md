@@ -66,8 +66,9 @@ Busco constantemente aprender novas tecnologias e construir soluções eficiente
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=nodejs" />  
-  <img src="https://skillicons.dev/icons?i=mysql" />  
-  <img src="https://skillicons.dev/icons?i=mongodb" />  
+  <img src="https://skillicons.dev/icons?i=python" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>  
 
 ---
@@ -75,7 +76,7 @@ Busco constantemente aprender novas tecnologias e construir soluções eficiente
 ### 🔮 Linguagens e Tecnologias
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb" />  
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb,express" />  
 </p>  
 
 ---
