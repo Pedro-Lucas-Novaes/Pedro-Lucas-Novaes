@@ -12,6 +12,7 @@
 
 Sou um desenvolvedor backend em formação, focado na criação de APIs, manipulação de dados e boas práticas de desenvolvimento.
 Busco constantemente aprender novas tecnologias e construir soluções eficientes, escaláveis e bem estruturadas.
+Tenho interesse em atuar com desenvolvimento backend, contribuindo na construção de sistemas eficientes e escaláveis.
 
 ---
 
