@@ -29,7 +29,9 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
 ### 📊 Poder Arcano do Guardião
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-Lucas-Novaes/Pedro-Lucas-Novaes/main/github-metrics.svg" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pedro-Lucas-Novaes&show_icons=true&theme=react"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pedro-Lucas-Novaes&layout=compact&langs_count=7&theme=react"/>
 </p>
 
 ---
