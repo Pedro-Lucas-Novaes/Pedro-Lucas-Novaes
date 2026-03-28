@@ -51,6 +51,15 @@
 
 ---
 
+### 🍽️ Criação em Andamento — O Reino de Nhambu
+
+Atualmente estou forjando uma **API REST com MongoDB** para o restaurante paraense **Nhambu**, um sistema voltado ao gerenciamento de pratos e registros do cardápio.  
+Nessa jornada, aplico operações de **CRUD** para cadastrar, listar, atualizar e remover informações, fortalecendo meus conhecimentos em backend, modelagem de dados e estruturação de rotas.
+
+O projeto também envolve **documentação da API**, testes com **Insomnia**, banco em nuvem com **MongoDB Atlas** e a criação de um **protótipo frontend no Figma** para representar a experiência de uso do sistema.
+
+---
+
 ### ✨ Magias do Protetor dos Servidores
 
 * 🍄 `CleanSpellAura()` → Código limpo, modular e de fácil manutenção
