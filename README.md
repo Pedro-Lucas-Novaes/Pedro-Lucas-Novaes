@@ -18,10 +18,10 @@
 ---
 
 <p align="center">  
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedro-Lucas-Novaes&show_icons=true&theme=dark&cache_seconds=1800" />  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedro-Lucas-Novaes&show_icons=true&theme=dark&count_private=true" />  
   &nbsp;&nbsp;&nbsp;  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lucas-Novaes&layout=compact&langs_count=7&theme=dark&cache_seconds=1800" />  
-</p>  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lucas-Novaes&layout=compact&langs_count=7&theme=dark" />  
+</p>
 
 ---
 
