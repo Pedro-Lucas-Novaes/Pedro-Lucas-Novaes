@@ -8,7 +8,7 @@
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">  
   <li>🌲 Mestre dos Segredos do Backend — onde dados brotam como raízes profundas</li>  
-  <li>🍃 Portador dos Tomos Sagrados de JavaScript, HTML, CSS, Python, C e Java</li>  
+  <li>🍃 Portador dos Tomos Sagrados de JavaScript, Python, C e Java</li>  
   <li>🦉 Guardião dos fluxos de dados e mestre na arte da lógica computacional</li>  
   <li>📚 Explorador incansável de boas práticas, clean code e arquitetura de software</li>  
   <li>⚙️ Forjado nas florestas de microserviços e bancos de dados como MySQL e MongoDB</li>  
@@ -38,7 +38,7 @@
 ### 🔮 Linguagens e Tecnologias
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,java,nodejs,mysql,mongodb" />  
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb" />  
 </p>  
 
 ---
