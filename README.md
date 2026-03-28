@@ -107,10 +107,11 @@ O projeto também envolve **documentação da API**, testes com **Insomnia**, ba
 
 <p align="left">
   <a href="mailto:pedrolucas.novaes.dutra@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    📧 Email
   </a>
+  |
   <a href="https://www.linkedin.com/in/pedro-lucas-novaes">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    💼 LinkedIn
   </a>
 </p>
 
