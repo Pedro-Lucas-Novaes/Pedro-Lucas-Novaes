@@ -52,7 +52,7 @@ Tenho interesse em aprender novas tecnologias e construir soluções eficientes 
   </a>
 
   <a href="https://www.credly.com/badges/5d755bd6-2c42-40c9-a0ff-c26418158012/public_url">
-    <img src="./assets/aws-ml.png" height="110"/>
+    <img src="./assets/aws-academy-graduate-machine-learning-foundations-t.png" height="110"/>
   </a>
 
   <a href="https://badge.cps.sp.gov.br//view.aspx?f8db55d6-9b35-426f-a996-a5c1b606b5c6">
