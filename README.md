@@ -67,10 +67,8 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=nodejs" />  
-  <img src="https://skillicons.dev/icons?i=python" />  
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=mysql" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" />  
 </p>  
 
 ---
@@ -78,7 +76,7 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 ### 🔮 Linguagens e Tecnologias
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb,express" />  
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,mysql,mongodb" />  
 </p>  
 
 ---
@@ -86,7 +84,7 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 ### 🛠️ Ferramentas do Guardião
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48"/>
 </p>
 
@@ -96,6 +94,8 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 
 🍽️ **Nhambu API**
 *API REST para gerenciamento de pratos de um restaurante paraense.*
+
+🔗 https://github.com/Pedro-Lucas-Novaes/NHAMBU
 
 * ✔ Implementação completa de CRUD
 * ✔ Estruturação de rotas e organização de backend
@@ -109,11 +109,11 @@ Tenho interesse em atuar com desenvolvimento backend, contribuindo na construç�
 ### 🛡️ Habilidades do Guardião
 
 * Desenvolvimento de APIs REST
-* Estruturação e organização de backend
-* Modelagem de dados
+* Estruturação de backend com Node.js
+* Modelagem de dados (MongoDB e MySQL)
 * Integração com banco de dados
-* Testes e validação de endpoints
-* Aplicação de boas práticas de código
+* Testes de endpoints com Insomnia
+* Aplicação de boas práticas (Clean Code)
 
 ---
 
@@ -129,10 +129,18 @@ Neste projeto, aplico conceitos fundamentais de backend como **CRUD, organizaç�
 
 * 🍄 `CleanSpellAura()` → Aplicação de boas práticas, organização de código e padronização de projetos
 * 🌌 `SummonDatabaseEntity()` → Modelagem de dados com MongoDB e MySQL
-* 🔥 `ForgeMicroservice()` → Desenvolvimento de APIs REST com Node.js
+* 🔥 `ForgeMicroservice()` → Desenvolvimento de APIs REST com Node.js e Express
 * ⚡ `InvokeEndpoint()` → Testes e validação de endpoints com Insomnia
 * 🧠 `ThinkLikeDev()` → Resolução de problemas e aprendizado contínuo
 
+---
+
+### 🌎 Linguagens do Guardião
+
+<p align="left">
+🇧🇷 Português — Nativo (Domínio total do reino)<br>
+🇺🇸 Inglês — Intermediário (Capaz de compreender e conjurar documentação técnica)<br>
+🇪🇸 Espanhol — Avançado (Comunicação avançada entre reinos vizinhos)
 ---
 
 ### 🌐 Contato
