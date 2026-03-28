@@ -69,6 +69,7 @@ Busco constantemente aprender novas tecnologias e construir soluções eficiente
   <img src="https://skillicons.dev/icons?i=python" />  
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </p>  
 
 ---
