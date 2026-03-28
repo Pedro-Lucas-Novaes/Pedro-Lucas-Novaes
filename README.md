@@ -57,7 +57,7 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
   </a>
 
   <a href="https://badge.cps.sp.gov.br//view.aspx?f8db55d6-9b35-426f-a996-a5c1b606b5c6">
-    <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="100"/>
+    <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="110"/>
   </a>
 </p>
 
