@@ -66,12 +66,8 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 ### ⚡ Skills em Destaque
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=nodejs" />  
-  <img src="https://skillicons.dev/icons?i=python" />  
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=js" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,js" />  
+</p>
 
 ---
 
@@ -95,7 +91,7 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 ### 🚀 Projetos do Guardião
 
 🍽️ **Nhambu API**
-*API REST para gerenciamento de pratos de um restaurante paraense.*
+*API REST para gerenciamento de pratos de um restaurante paraense, com operações CRUD e integração com banco de dados.*
 
 🔗 [Acessar repositório](https://github.com/Pedro-Lucas-Novaes/NHAMBU)
 
