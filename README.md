@@ -19,9 +19,9 @@ Tenho interesse em oportunidades para aplicar e evoluir meus conhecimentos em de
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">  
   <li>🌲 Especialista em backend — onde dados se tornam soluções</li>  
   <li>🍃 Experiência com JavaScript, Python, C e Java</li>  
-  <li>🦉 Forte base em lógica de programação e resolução de problemas</li>  
+  <li>🦉 Base forte em lógica de programação e resolução de problemas</li>  
   <li>📚 Aplicação de boas práticas como Clean Code e organização de projetos</li>  
-  <li>⚙️ Desenvolvimento com bancos de dados como MySQL e MongoDB</li>  
+  <li>⚙️ Desenvolvimento com bancos de dados, tais como MySQL e MongoDB</li>  
   <li>🔮 Criação de APIs REST eficientes e bem estruturadas</li>  
 </ul>  
 
